@@ -3,7 +3,7 @@
 An interactive Power BI dashboard analyzing 22 years of US drug overdose death rate data, with a focus on the opioid crisis.
 
 ## Dashboard Preview
-![Drug Overdose Dashboard](drug_dashboard.png)
+![Drug Overdose Dashboard](drug_dashboard.pdf)
 
 ## Project Overview
 This project visualizes national drug overdose death rates from 1999 to 2020 using data from the CDC WONDER database. The dashboard highlights the dramatic rise of opioid-related deaths, particularly the explosion of synthetic opioid (fentanyl) deaths after 2013.
